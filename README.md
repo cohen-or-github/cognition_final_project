@@ -1,1 +1,29 @@
-# cognition_final_project
+# Cognition Final Project
+
+Mapping neural activation to semantic representations using fMRI data.
+
+## Notebooks
+
+* **part\_1\_structured\_tasks.ipynb**
+ Implements the structured tasks.
+
+* **open\_task.ipynb**
+ Implements the open-ended tasks.
+---
+
+## Quick Start
+
+```bash
+git clone https://github.com/cohen-or-github/cognition_final_project.git
+cd cognition_final_project
+```
+
+Open and run each notebook in order to reproduce all decoding results and visualizations.
+
+---
+
+## Highlights
+
+* Performance comparison across embedding types and tasks
+* Intuitive evaluation using decoding metrics (rank / rank accuracy)
+* Clear visualizations of decoding success per concept and sentence
