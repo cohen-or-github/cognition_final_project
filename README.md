@@ -26,4 +26,4 @@ Open and run each notebook in order to reproduce all decoding results and visual
 
 * Performance comparison across embedding types and tasks
 * Intuitive evaluation using decoding metrics (rank / rank accuracy)
-* Clear visualizations of decoding success per concept and sentence
+* Open Task Analysis: Investigated whether different semantic topics are preferentially encoded in distinct brain networks by combining topic-level fMRI activations with anatomical masks and unsupervised clustering.
