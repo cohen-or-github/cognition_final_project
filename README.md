@@ -7,11 +7,12 @@ Mapping neural activation to semantic representations using fMRI data.
 * **part\_1\_structured\_tasks.ipynb**
  Implements the structured tasks.
 
+* **task3.ipynb**
+ Implements the third structured task - an encoding analysis, predicting voxel-wise activation patterns from sentence embeddings using linear regression, comparing GloVe and   BERT.
+
 * **open\_task.ipynb**
  Implements the open-ended tasks.
 
-* **task3.ipynb**
- Implements an encoding analysis, predicting voxel-wise activation patterns from sentence embeddings using linear regression, comparing GloVe and   BERT. Includes histogram and box plot visualizations of $R^2$ distributions.
 ---
 
 ## Quick Start
